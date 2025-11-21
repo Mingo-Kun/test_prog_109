@@ -1,7 +1,10 @@
 # Aplikasi Prototype E-Commerce kecil dengan Isolasi Data (multi-tenant) dan SSR Incremental
 Pilih salah satu :
 
-1. (Tenggat waktu 3-4 hari) Bangun prototype toko online multi-tenant (brand A dan brand B) yang memakai Next.js App Router. Tiap tenant punya katalog, tema sederhana, dan halaman checkout mock.
+1. (Tenggat waktu 3-4 hari) Bangun prototype toko online multi-tenant (brand A dan brand B) yang memakai Next.js App Router.
+1.  **Install Dependencies**: `bun install`
+2.  **Run Dev Server**: `bun dev`
+Tiap tenant punya katalog, tema sederhana, dan halaman checkout mock.
 2. (Tenggat waktu 2-3 hari) Bangun prototype toko online single-tenant (brand A) yang memakai Next.js App Router. Punya katalog produk, tema sederhana, dan halaman checkout mock.
 
 Syarat Minimal:
@@ -22,3 +25,4 @@ Deliverable:
 
 - Repo dengan README, script run, tenant demo, langkah reproduksi race condition, dan file arsitektur.
 - Invite github @dev-insoftasia ke repo tersebut.
+
